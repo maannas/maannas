@@ -1,9 +1,11 @@
-<h1 align="center">Hi , I'm Manas Kolaskar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<img width="1820" alt="Screenshot 2024-04-08 at 10 12 46 AM" src="https://github.com/maannas/maannas/assets/148738351/d9fb3be0-f06d-446f-83ec-24ef50370592">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maannas&label=Profile%20views&color=0e75b6&style=flat" alt="maannas" /> </p>
 
 <p align="left"> <a href="https://twitter.com/manasupdates" target="blank"><img src="https://img.shields.io/twitter/follow/manasupdates?logo=twitter&style=for-the-badge" alt="manasupdates" /></a> </p>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 - 🔭 I’m currently working on **Personal Portfolio**
 
